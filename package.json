@@ -1,0 +1,19 @@
+{
+  "name": "domain_to_ip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm app.js",
+    "start-server": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "childprocess": "^2.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
